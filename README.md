@@ -1,6 +1,6 @@
-# 👨‍💻 Frontend Developer | Desarrollador de Microsoft | Diseñador Creativo  
+# 👨‍💻 Frontend Developer | Diseñador Creativo  
 
-¡Hola! Soy un desarrollador web y de Microsoft apasionado por la tecnología y la creación de experiencias digitales impactantes. Mi enfoque está en escribir código limpio y eficiente, mientras colaboro con herramientas modernas para ofrecer soluciones funcionales y atractivas.  
+¡Hola! Soy un desarrollador web apasionado por la tecnología y la creación de experiencias digitales impactantes. Mi enfoque está en escribir código limpio y eficiente, mientras colaboro con herramientas modernas para ofrecer soluciones funcionales y atractivas.  
 
 ## 💫 About Me  
 - 🌟 Desarrollador web con experiencia en frontend y backend.  
